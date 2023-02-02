@@ -84,7 +84,7 @@ const App = () => {
     {
       name: "video games",
       image: "https://imgs.xkcd.com/comics/videogames.png",  
-      attributes: ["entertaining", "addicting", "time-wasting"],
+      attributes: ["entertaining", "addicting", "time-wasting", "social hub"],
     },
   ]
 
