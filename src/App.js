@@ -84,8 +84,8 @@ const App = () => {
   const kianasThings = [
     {
       name: "video games",
-      image: "https://imgs.xkcd.com/comics/videogames.png",
-      attributes: ["entertaining", "addicting", "time-wasting"],
+      image: "https://imgs.xkcd.com/comics/videogames.png",  
+      attributes: ["entertaining", "addicting", "time-wasting", "social hub"],
     },
   ];
 
